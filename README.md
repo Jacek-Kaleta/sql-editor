@@ -1,3 +1,3 @@
-# sql-compare
+# sql-editor
 
 https://sqleditor.pages.dev/
